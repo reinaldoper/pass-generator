@@ -22,6 +22,15 @@ const styles = StyleSheet.create({
     width:'80%',
     flexDirection:'column',
     alignItems:'center',
+  },
+  pressable: {
+    backgroundColor: '#39f542ff',
+    padding: 10,
+    width: 30,
+    height:30,
+    borderRadius: 50,
+    marginBottom: 10,
+    marginTop: 40,
   }
 });
 
