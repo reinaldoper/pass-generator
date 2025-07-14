@@ -29,8 +29,6 @@ git clone https://github.com/reinaldoper/pass-generator.git
 cd pass-generator
 
 ## Executando o projeto
-
-```sh
 npm install
 npm start
 ```
